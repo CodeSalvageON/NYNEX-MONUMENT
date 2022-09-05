@@ -1,0 +1,23 @@
+@font-face {
+  font-family: ROMANSEX;
+  src: url("ROMANSEX.ttf");
+}
+
+body {
+  color: white;
+  font-family: ROMANSEX;
+  background-color: #796be6;
+}
+
+.huge {
+  font-size: 10vw;
+}
+
+.mon {
+  display: none;
+}
+
+#loading-screen {
+  font-size: 10vw;
+  display: block;
+}
